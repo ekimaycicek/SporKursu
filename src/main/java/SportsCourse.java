@@ -10,7 +10,6 @@ public class SportsCourse {
 
     public SportsCourse(String name, String gender, double kilo, double size) {
         this.name = name;
-
         this.gender = gender;
         this.kilo = kilo;
         this.size = size;
