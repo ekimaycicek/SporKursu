@@ -32,6 +32,7 @@ public class SportsCourse {
 
 
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         System.out.print("Please enter the number of students: ");
