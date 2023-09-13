@@ -15,8 +15,7 @@ public class SportsCourse {
         this.size = size;
     }
 
-    public String getName() {
-        return name;
+    public String getName() {return name;
     }
 
     public String getGender() {
